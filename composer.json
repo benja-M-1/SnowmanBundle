@@ -1,0 +1,14 @@
+{
+    "name": "benjamin/snowman-bundle",
+    "description": "Add snowman in your shell.",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Benjamin Grandfond",
+            "email": "benjamin.grandfond@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/symfony": "dev-master"
+    }
+}

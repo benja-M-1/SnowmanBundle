@@ -2,6 +2,7 @@
     "name": "benjamin/snowman-bundle",
     "description": "Add snowman in your shell.",
     "minimum-stability": "stable",
+    "licence": "MIT",
     "authors": [
         {
             "name": "Benjamin Grandfond",
